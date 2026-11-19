@@ -13,7 +13,7 @@ Completed my B.Tech at **Dhirubhai Ambani University (DAU)** and currently condu
 | Field | Comfortable | Familiar / Learning | Want to Explore |
 | :--- | :--- | :--- | :--- |
 | **Robotics & SLAM** | ROS 2, LiDAR SLAM, Point Cloud Processing, Navigation | 3D Scene Graphs, GLIM, TerraSeg | Bimanual Control, Kinematic Trajectory Planning |
-| **Deep Learning & Vision** | PyTorch, OpenCV, Open3D | 3D Reconstruction Pipelines |
+| **Deep Learning & Vision** | PyTorch, OpenCV, Open3D | 3D Reconstruction Pipelines | Learning Based Control
 | **Languages** | C, C++, Python|
 | **Hardware & Sensors** | 3D LiDAR (Livox Mid-360), NVIDIA Jetson, Microcontrollers | Robotic Manipulators, Embedded Edge Compute |
 | **Software Tools** | Linux (Ubuntu), Git, Docker Dev Containers, CMake |
